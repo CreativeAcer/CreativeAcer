@@ -31,7 +31,13 @@
 
 <p align="left">
     <div style="display: flex;flex-wrap: wrap;">
-        <a href="https://angular.io" target="_blank"> <img
+        <a href="https://nl.wikipedia.org/wiki/Linux" target="_blank"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+            alt="angularjs" width="40" height="40" /> </a><a href="https://www.debian.org/" target="_blank"> <img
+                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original-wordmark.svg"
+                alt="angularjs" width="40" height="40" /> </a><a href="https://www.microsoft.com/" target="_blank"> <img
+                    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"
+                    alt="angularjs" width="40" height="40" /> </a><a href="https://angular.io" target="_blank"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg"
                 alt="angularjs" width="40" height="40" /> </a> <a href="https://azure.microsoft.com/en-in/"
             target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
