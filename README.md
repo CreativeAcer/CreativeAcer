@@ -72,7 +72,7 @@
     </div>
 </p>
 <h3 align="left">GitHub stats:</h3>
-<p>
+<div>
      <img align="left"
         src="https://github-readme-stats.vercel.app/api?username=creativeacer&show_icons=true&theme=onedark&count_private=true&locale=en&show_icons=true&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"
         alt="creativeacer" />
@@ -80,5 +80,5 @@
      <img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=creativeacer&show_icons=true&theme=onedark&count_private=true&locale=en&layout=compact&show_icons=true&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"
         alt="creativeacer" />
+</div>
 
-</p>
