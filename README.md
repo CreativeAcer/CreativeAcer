@@ -105,10 +105,13 @@
     </div>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=creativeacer&show_icons=true&theme=onedark&count_private=true&locale=en&layout=compact&show_icons=true&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"
-        alt="creativeacer" /></p>
-
-<p>&nbsp;<img align="center"
+<p>
+     <img align="left"
         src="https://github-readme-stats.vercel.app/api?username=creativeacer&show_icons=true&theme=onedark&count_private=true&locale=en&show_icons=true&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"
-        alt="creativeacer" /></p>
+        alt="creativeacer" />
+     &nbsp;
+     <img align="center"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=creativeacer&show_icons=true&theme=onedark&count_private=true&locale=en&layout=compact&show_icons=true&icon_color=00ffe1&hide_border=trueinclude_all_commits=true"
+        alt="creativeacer" />
+
+</p>
