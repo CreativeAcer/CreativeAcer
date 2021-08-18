@@ -23,7 +23,7 @@
     <a href="https://linkedin.com/in/marcomoris" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="marcomoris" height="30"
             width="40" /></a>
-    <a href="https://stackoverflow.com/users/landvis" target="blank"><img align="center"
+    <a href="https://stackoverflow.com/users/2043287/landvis" target="blank"><img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="landvis" height="30"
             width="40" /></a>
 </p>
