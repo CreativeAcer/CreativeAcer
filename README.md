@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm CreativeAcer</h1>
+<h1 align="center">Hi 👋</h1>  
+<img src="https://github.com/CreativeAcer/CreativeAcer/blob/main/githubEffect.gif?raw=true">
 <h3 align="center">A O365 / frontend enthousiast from Belgium</h3>
 
 <p align="left">
