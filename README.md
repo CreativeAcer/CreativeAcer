@@ -7,7 +7,7 @@
         alt="creativeacer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=creativeacer" alt="creativeacer" /></a> </p>
+            src="https://github-profile-trophy.vercel.app/?username=creativeacer&theme=onedark&margin-h=10&margin-w=10&column=3&no-bg=true&no-frame=true" alt="creativeacer" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/moris_marcobe" target="blank"><img
             src="https://img.shields.io/twitter/follow/moris_marcobe?logo=twitter&style=for-the-badge"
